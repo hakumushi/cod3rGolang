@@ -52,4 +52,5 @@ func main() {
 	char := 'a'
 	fmt.Println("O tipo de char é", reflect.TypeOf(char))
 	fmt.Println(char)
+
 }
